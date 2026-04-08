@@ -1,7 +1,5 @@
 # ⚡ VelocityPay | Next-Gen Crypto Payment Gateway
 
-(file:///C:/Users/botla/.gemini/antigravity/brain/e35d2162-5528-4e4c-8a38-db5d30f5e075/velocity_pay_banner_1775628202770.png)
-
 > **The ultimate bridge between high-speed Avalanche blockchain and real-world merchant requirements.** 
 
 VelocityPay is a premium, AI-powered crypto payment gateway designed for sub-second finality and zero-friction checkout experiences. Built on the Avalanche C-Chain, it leverages **Core Wallet deep-linking** and **Google’s Gemini AI** to provide a state-of-the-art payment solution for modern merchants and savvy crypto users.
