@@ -1,6 +1,6 @@
 # ⚡ VelocityPay | Next-Gen Crypto Payment Gateway
 
-![VelocityPay Banner](file:///C:/Users/botla/.gemini/antigravity/brain/e35d2162-5528-4e4c-8a38-db5d30f5e075/velocity_pay_banner_1775628202770.png)
+(file:///C:/Users/botla/.gemini/antigravity/brain/e35d2162-5528-4e4c-8a38-db5d30f5e075/velocity_pay_banner_1775628202770.png)
 
 > **The ultimate bridge between high-speed Avalanche blockchain and real-world merchant requirements.** 
 
